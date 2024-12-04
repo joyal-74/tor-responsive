@@ -1,0 +1,47 @@
+
+.navbar, .header-area{
+    background-color: #59316b;
+}
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.6rem;
+    }
+    .big-text h1 {
+        font-size: 2.5rem;
+    }
+}
+
+@media (min-width: 768px) {
+header h1 {
+    font-size: 5rem;
+}
+.big-text h1 {
+    font-size: 4rem;
+}
+}
+
+.text-div h1 {
+    color: #59316b;
+}
+.meet-link {
+    color: #59316b;
+}
+.meet-link:hover {
+    text-decoration: underline !important;
+}
+
+.big-text h6 {
+    color: #59316b;
+}
+
+.footer-area {
+    background-color: #59316b;
+}
+.newsletter-text button {
+    background-color: #381d44;
+}
+
+.newsletter-text .subscribe{
+    color:#aa82bd
+}
